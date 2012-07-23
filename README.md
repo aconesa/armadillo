@@ -1,4 +1,4 @@
 armadillo
 =========
 
-scratch package
+scratch package for Bioc2012 package exercise
